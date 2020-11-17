@@ -5,10 +5,10 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 ![postman request output](screenshots/postman.png)
 
-![citiesData table](screenshots/citiesData table.png)
+![citiesData table](screenshots/citiesData%20table.png)
 
 ## Part 2
 
-![home page](screenshots/bootstrap page.png)
+![home page](screenshots/bootstrap%20page.png)
 
-![cities data API page](screenshots/cities api page.png)
+![cities data API page](screenshots/cities%20api%20page.png)
